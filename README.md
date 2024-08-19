@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Kritika-git/Kritika-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I'm Kritika! 👋
+
+I am a passionate B.Tech CS student at Heritage Institute of Technology, Kolkata, driven by a curiosity for technology. I am a beginner looking to learn and grow.
+
+![Kritika-git's Stats](https://github-readme-stats.vercel.app/api?username=Kritika-git&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c++)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React for dynamic front-end experiences.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Learning MERN stack.
+
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://x.com/Kritika1824)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/kritika-singh-960a00215/)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
