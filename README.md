@@ -24,7 +24,7 @@ I am a passionate B.Tech CS student at Heritage Institute of Technology, Kolkata
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,react,postgresql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
