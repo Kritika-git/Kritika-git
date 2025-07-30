@@ -31,6 +31,7 @@ I am a passionate B.Tech CS student at Heritage Institute of Technology, Kolkata
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React for dynamic front-end experiences.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Exploring Backend development with Spring Boot.
   - Learning MERN stack.
 
 
